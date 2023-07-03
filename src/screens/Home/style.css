@@ -1,0 +1,126 @@
+.section {
+    padding: 19px;
+    padding-top: 100px;
+    color: #4D4D4D;
+    padding-bottom: 100px;
+   
+    border: 1px solid;
+}
+
+.section-gray {
+    background-color: #F7F7F7;
+    display: flex;
+
+}
+
+.absolute-content {
+    position: absolute;
+    top: -93px;
+    right: 0px;
+    border: 1px solid ;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.37rem;
+    width: 26px;
+    align-items: center;
+    display: flex;
+}
+
+.absolute-content > span:nth-of-type(1) {
+    color: #E2AC4B;
+}
+
+.section-content {
+    display: flex;
+    max-width: 1272px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    border: 1px solid;
+    position: relative;
+    width: 100%;
+}
+
+.box-design {
+    width: 24px;
+    height: 24px;
+    background-color: #E2AC4B;
+    display: inline-block;
+    margin-left: 9px;
+}
+
+.section > div > h2 {
+    font-size: 2rem;
+    line-height: 2.63rem;
+}
+
+.section-gray > .section-content > div:nth-of-type(1) {
+    width: 100%;
+    max-width: 512px;
+}
+
+.section-gray > .section-content > div:nth-of-type(2) {
+    width: 100%;
+    flex-grow: 1;
+    max-width: 608px;
+}
+
+
+.section-gray > .section-content > div > h1 {
+    font-size: 2.25rem;
+}
+
+.section-gray > .section-content > div > p {
+    font-size: 0.875rem;
+    line-height: 1.4375rem;
+}
+
+.twitter-tag {
+    background-color: #DDF6EF;
+    padding: 10px;
+    padding-top: 8.45px;
+    padding-bottom: 8.45px;
+    border-radius: 4px;
+    font-size: 0.81rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1px;
+    max-width: 374px;
+}
+
+.twitter-tag > span:nth-of-type(1) {
+    color: #3FA9F5;
+    font-weight: 700;
+
+}
+
+.section-gray > .button-wrapper {
+    display: flex;
+    gap: 4px;
+    margin-top: 32px;
+}
+
+.section-img {
+    width: 100%;
+    flex-grow: 1;
+}
+
+.btn {
+    font-weight: 600;
+    line-height: 1.87rem;
+    font-size: 1.2rem;
+    padding: 38px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: none;
+    border-radius: 6px;
+    background: none;
+    color: #093A6B;
+    cursor: pointer;
+}
+
+.btn-green {
+    color: #fff;
+    background-color: #19A59E
+}
