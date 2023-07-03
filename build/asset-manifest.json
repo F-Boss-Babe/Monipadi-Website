@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5def33bd.css",
+    "main.js": "/static/js/main.900330cf.js",
+    "static/media/take-full-control-image.png": "/static/media/take-full-control-image.10f0d1153d087aa00f86.png",
+    "static/media/monipadi-mobile.svg": "/static/media/monipadi-mobile.ef1dc30a8160d5134e94f3f29716283c.svg",
+    "static/media/building-image.png": "/static/media/building-image.a5e9bd73365c9eed87db.png",
+    "static/media/monipadi-landing-image.png": "/static/media/monipadi-landing-image.40a9b01f1f948f28e2c2.png",
+    "static/media/Timeline-image.png": "/static/media/Timeline-image.764a6a8b7dd7ffe09e43.png",
+    "static/media/monipadi-coming-soon-image.png": "/static/media/monipadi-coming-soon-image.9bd7998afa077ad432cc.png",
+    "static/media/thegoal.png": "/static/media/thegoal.495b26ec750b3ff731bf.png",
+    "static/media/profile-2.png": "/static/media/profile-2.aad9f3b015e92356cd73.png",
+    "static/media/profile-1.png": "/static/media/profile-1.4531d058fed540c3b02e.png",
+    "static/media/About Monipadi.svg": "/static/media/About Monipadi.3be4735d219cd9aa1f277af368eb510f.svg",
+    "static/media/Community.svg": "/static/media/Community.5c92acec5d929f11626db7e2d30138ff.svg",
+    "static/media/Product.svg": "/static/media/Product.cdfdc1cbd0756a649dbe65e47785f935.svg",
+    "static/media/whatsapp-icon.svg": "/static/media/whatsapp-icon.885cca2c6837cdddd936ac512391848c.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.a81d5d4f72a8adaac1cb2a162de93cea.svg",
+    "index.html": "/index.html",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.c53a97221365e6d22ace280042be8327.svg",
+    "main.5def33bd.css.map": "/static/css/main.5def33bd.css.map",
+    "main.900330cf.js.map": "/static/js/main.900330cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5def33bd.css",
+    "static/js/main.900330cf.js"
+  ]
+}
