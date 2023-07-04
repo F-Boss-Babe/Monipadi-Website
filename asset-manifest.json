@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Monipadi-Website/static/css/main.5def33bd.css",
+    "main.js": "/Monipadi-Website/static/js/main.447eb17c.js",
+    "static/media/take-full-control-image.png": "/Monipadi-Website/static/media/take-full-control-image.10f0d1153d087aa00f86.png",
+    "static/media/monipadi-mobile.svg": "/Monipadi-Website/static/media/monipadi-mobile.9c85a02cf46532325254061088afaff4.svg",
+    "static/media/building-image.png": "/Monipadi-Website/static/media/building-image.a5e9bd73365c9eed87db.png",
+    "static/media/monipadi-landing-image.png": "/Monipadi-Website/static/media/monipadi-landing-image.40a9b01f1f948f28e2c2.png",
+    "static/media/Timeline-image.png": "/Monipadi-Website/static/media/Timeline-image.764a6a8b7dd7ffe09e43.png",
+    "static/media/monipadi-coming-soon-image.png": "/Monipadi-Website/static/media/monipadi-coming-soon-image.9bd7998afa077ad432cc.png",
+    "static/media/thegoal.png": "/Monipadi-Website/static/media/thegoal.495b26ec750b3ff731bf.png",
+    "static/media/profile-2.png": "/Monipadi-Website/static/media/profile-2.aad9f3b015e92356cd73.png",
+    "static/media/profile-1.png": "/Monipadi-Website/static/media/profile-1.4531d058fed540c3b02e.png",
+    "static/media/About Monipadi.svg": "/Monipadi-Website/static/media/About Monipadi.1d75894daea5d0efb17353df6d21bdb1.svg",
+    "static/media/Community.svg": "/Monipadi-Website/static/media/Community.f2f67d3433f2c97c7621dd5e01aba327.svg",
+    "static/media/Product.svg": "/Monipadi-Website/static/media/Product.97f1b65a2e27db5fb2028c2e1950e9e2.svg",
+    "static/media/whatsapp-icon.svg": "/Monipadi-Website/static/media/whatsapp-icon.182b0ad473d42bbd4df2f18fa304adac.svg",
+    "static/media/twitter-icon.svg": "/Monipadi-Website/static/media/twitter-icon.be037e6955982049e83f29ac5d6cde0d.svg",
+    "index.html": "/Monipadi-Website/index.html",
+    "static/media/instagram-icon.svg": "/Monipadi-Website/static/media/instagram-icon.e2ac1da53fac58fa5d481a2ba6c18b15.svg",
+    "main.5def33bd.css.map": "/Monipadi-Website/static/css/main.5def33bd.css.map",
+    "main.447eb17c.js.map": "/Monipadi-Website/static/js/main.447eb17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5def33bd.css",
+    "static/js/main.447eb17c.js"
+  ]
+}
